@@ -31,8 +31,9 @@ This indicates three pieces of information:
 The `pwd` command will print the path to the current directory.
 
 ```sh
-pwd
->> /c/Users/tss2
+tss2@NBILL-TSS2 MINGW64 /C/Users/tss2 (main)
+$ pwd
+/C/Users/tss2
 ```
 
 The prompt indicates a current directory of `~`. The `pwd` command shows a current directory located at `/c/Users/tss2`. Therefore, on this computer, in this shell, `~` is equivalent to `/c/Users/tss2`.
