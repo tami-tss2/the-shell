@@ -1,0 +1,2 @@
+This is file3 in dir1. 
+
